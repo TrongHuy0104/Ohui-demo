@@ -1535,7 +1535,7 @@
     box-shadow: 0 1px 2px 0 rgb(0 0 0 / 10%);
     transition: transform ease-in 0.1s;
     border-radius: 2px;
-    min-height: 308px;
+    min-height: 290px;
 }
 
 .product-item:hover {
