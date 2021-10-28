@@ -65,6 +65,10 @@
    .footer-info__address p {
         margin-top: 0;
     }
+    
+    .footer-info__menu-link {
+        padding: 10px 26px;
+    }
 }
 
 /* Tablet */
